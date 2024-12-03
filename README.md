@@ -8,6 +8,10 @@ Run the command below to install the dependencies:
 
 `$ yarn install`
 
+## # How to run
+
+`$ yarn start`
+
 #### # Driver standings by year
 - `/standings/drivers`
 - `/standings/drivers/2023`
