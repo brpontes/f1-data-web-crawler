@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/52561a66-4e55-4010-8dd6-d7a3947c7961)
-
-# Get F1 data by drivers, teams and races
+# Get Formula 1 data by drivers, teams and races
 
 ## # How to install
 
